@@ -1,4 +1,4 @@
-# AdButler iOS SDK
+# Haku iOS SDK
 
 Native iOS SDK for serving display, native, and VAST video ads from [AdButler](https://www.adbutler.com).
 
